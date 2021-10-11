@@ -1,0 +1,14 @@
+Pillow
+absl-py
+face-alignment
+imageio
+numpy
+opencv-python
+scikit-image
+six
+tensorflow-gpu
+tensorflow-addons
+tensorflow-gan
+tensorboardX
+torchvision
+typing

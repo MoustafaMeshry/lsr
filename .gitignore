@@ -1,0 +1,10 @@
+*__pycache__
+.*
+~*
+other_files/*
+notes/*
+logs/*
+venvs/
+*.png
+_*
+third_party/
