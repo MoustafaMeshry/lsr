@@ -67,7 +67,7 @@ Each output image contains a tuple of 5 images represeting the following (concat
 
 A sample tuple is shown below.
 
-&nbsp; &nbsp; &nbsp; &nbsp; **Input landmarks** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Output spatial map** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Oracle segmentation** &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Output** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Ground truth**
+&nbsp; &nbsp; &nbsp; **Input landmarks** &nbsp; &nbsp; &nbsp; &nbsp; **Output spatial map** &nbsp; &nbsp; &nbsp; &nbsp; **Oracle segmentation** &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Output** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Ground truth**
 <figure class="image">
   <img align="center" src="imgs/id00562-QXeKdcX0WhI.gif">
 </figure>
